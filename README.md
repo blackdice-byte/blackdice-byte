@@ -56,6 +56,20 @@ Full Stack (TypeScript) React.JS, React Native and Express.js Developer with 4+ 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Metaplex](https://img.shields.io/badge/-Metaplex-000000?style=flat-square&logo=solana&logoColor=white)
 
+### AI Tools
+
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Qwen](https://img.shields.io/badge/-Qwen-615CED?style=flat-square&logo=qwen&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
+![Kimi](https://img.shields.io/badge/-Kimi-000000?style=flat-square&logo=kimi&logoColor=white)
+
+### IDEs
+
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio 2019](https://img.shields.io/badge/-Visual_Studio_2019-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+
 ### Core Competencies
 
 - 💻 Software Quality Assurance
