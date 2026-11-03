@@ -1,6 +1,6 @@
 # Hi there, I'm Milton Black 👋
 
-[![committers.top badge](https://user-badge.committers.top/nigeria_public/ArziBlack.svg)](https://user-badge.committers.top/nigeria_public/ArziBlack)
+[![committers.top badge](https://user-badge.committers.top/nigeria_public/blackdice-byte.svg)](https://user-badge.committers.top/nigeria_public/blackdice-byte)
 
 ## About Me
 
@@ -80,13 +80,13 @@ Full Stack (TypeScript) React.JS, React Native and Express.js Developer with 4+ 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackdice-byte&show_icons=true&theme=radical)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackdice-byte&layout=compact&theme=radical)
+![Top Languages](./profile/top-langs.svg)
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArziBlack&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=blackdice-byte&theme=radical)](https://git.io/streak-stats)
 
 ## 📫 Let's Connect
 
