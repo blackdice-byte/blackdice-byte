@@ -80,9 +80,9 @@ Full Stack (TypeScript) React.JS, React Native and Express.js Developer with 4+ 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArziBlack&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackdice-byte&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArziBlack&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackdice-byte&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 
